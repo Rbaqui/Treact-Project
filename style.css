@@ -1572,6 +1572,14 @@ MOBILE RESPONSIVENESS ↓
         line-height: 1.5;
     }
 
+    .header__email--btn {
+        width: 100%;
+        padding: 16px 0;
+        margin: 16px 0;
+        margin-bottom: 0px;
+        line-height: 1.5;
+    }
+
     .header__customers--title {
         font-size: 14px;
         letter-spacing: 0.05em;
